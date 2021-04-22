@@ -1,1 +1,6 @@
-# python-hae
+## Python
+
+- Github link: [https://github.com/haekyu/python-hae](https://github.com/haekyu/python-hae)
+
+- 목차
+    - [0422](https://github.com/haekyu/python-hae/0422): 기본 데이터 타입 + 기본 데이터 타입의 기본 연산
